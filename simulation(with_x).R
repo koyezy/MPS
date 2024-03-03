@@ -1,6 +1,3 @@
-### propensity score and radiation exposure accumulation fix
-### sex added to the simulation and model
-
 getwd()
 setwd("/Users/yejiko/Downloads/PhD/MPS")
 
