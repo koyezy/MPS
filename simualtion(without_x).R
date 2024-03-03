@@ -1,4 +1,4 @@
-lambda_0 = 0.03 # parameter for initial time distribution: female (mean of 35)
+lambda_0 = 0.03 # parameter for initial time distribution (mean of 35)
 psi = 0.3 # -0.3, 0, or 0.3
 ns = 1000 # sample size
 tpoints = 20 # number of time points
