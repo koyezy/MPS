@@ -1,3 +1,15 @@
+getwd()
+setwd("/Users/yejiko/Downloads/PhD/MPS")
+
+### External requirement
+library(dplyr)
+library(tidyr)
+library(survival)
+library(ggplot2)
+library(ggpubr)
+library(magrittr)
+library(rms)
+
 lambda_0 = 0.03 # parameter for initial time distribution (mean of 35)
 psi = 0.3 # -0.3, 0, or 0.3
 ns = 1000 # sample size
