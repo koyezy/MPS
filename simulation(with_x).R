@@ -17,7 +17,7 @@ psi = -0.3 # -0.3, 0, or 0.3
 ns = 1000 # sample size
 tpoints = 20 # number of time points
 
-slope = 0
+slope = 0.000015
 intercept = 0.001
 msm_est <- c()
 cph_est <- c()
@@ -27,7 +27,7 @@ msm_se <- c()
 cph_se <- c()
 cph_se2 <- c()
 
-nsim = 100 # number of simulations
+nsim = 500 # number of simulations
 
 set.seed(1234)
 
